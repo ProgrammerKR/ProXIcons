@@ -10,6 +10,7 @@
 [![GitHub language count](https://img.shields.io/github/languages/count/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
 [![Top language](https://img.shields.io/github/languages/top/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
 [![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)](https://github.com/ProgrammerKR/ProXIcons)
+
 _High Quality, Modern, and Lightweight Open Source Icons_
 
 **ProXIcons** is a clean, developer-friendly iconset crafted for modern web, app, and design projects. With over 1500+ icons and a focus on performance, ProXIcons is your go-to icon library for any creative need.
