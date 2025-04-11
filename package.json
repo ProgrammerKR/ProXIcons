@@ -1,6 +1,6 @@
 {
   "name": "proxicons",
-  "version": "1.3.0",
+  "version": "1.4.4",
   "description": "ProXIcons - An open-source high-quality icon library for modern web and app development",
   "scripts": {
     "start": "webpack-dev-server --history-api-fallback --hot --open",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ProgrammerKR/ProXIcons.git"
   },
   "author": {
-    "name": "Kanishk Raj",
+    "name": "Prog. Kanishk Raj",
     "email": "programmerkrofficial@gmail.com",
     "url": "https://github.com/ProgrammerKR"
   },
