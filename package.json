@@ -1,8 +1,12 @@
 {
   "name": "proxicons",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.4.4"
 >>>>>>> d2b39c9 (Update before version bump)
+=======
+  "version": "1.4.3",
+>>>>>>> 833984d (1.4.3)
   "description": "ProXIcons - An open-source high-quality icon library for modern web and app development",
   "scripts": {
     "start": "webpack-dev-server --history-api-fallback --hot --open",
