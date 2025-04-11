@@ -11,16 +11,27 @@
 [![Top language](https://img.shields.io/github/languages/top/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
 [![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)](https://github.com/ProgrammerKR/ProXIcons)
 
+---
+
 _High Quality, Modern, and Lightweight Open Source Icons_
 
 **ProXIcons** is a clean, developer-friendly iconset crafted for modern web, app, and design projects. With over 1500+ icons and a focus on performance, ProXIcons is your go-to icon library for any creative need.
 
-## What's New in v1.3.0
+## What's New
 
+### v1.4.4
+- Version conflict resolved and metadata updated
+- Improved build system and development scripts
+- Optimized SVG handling using `svgo`
+- Minor internal fixes for better stability
+
+### v1.3.0
 - Initial release with 1500+ unique icons
 - Supports regular, solid, and brand variants
 - Includes Web Component for seamless integration
 
+---
+  
 ## Installation
 
 To install via npm:
