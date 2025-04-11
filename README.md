@@ -1,13 +1,20 @@
 # ProXIcons
+[![GitHub stars](https://img.shields.io/github/stars/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons/network)
+[![GitHub license](https://img.shields.io/github/license/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons/issues)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ProgrammerKR/ProXIcons.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20ProXIcons:&url=https%3A%2F%2Fgithub.com%2FProgrammerKR%2FProXIcons)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/ProgrammerKR)
-
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
+[![GitHub language count](https://img.shields.io/github/languages/count/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
+[![Top language](https://img.shields.io/github/languages/top/ProgrammerKR/ProXIcons.svg)](https://github.com/ProgrammerKR/ProXIcons)
+[![Maintenance](https://img.shields.io/maintenance/yes/2025.svg)](https://github.com/ProgrammerKR/ProXIcons)
 _High Quality, Modern, and Lightweight Open Source Icons_
 
 **ProXIcons** is a clean, developer-friendly iconset crafted for modern web, app, and design projects. With over 1500+ icons and a focus on performance, ProXIcons is your go-to icon library for any creative need.
 
-## What's New in v1.0.0
+## What's New in v1.3.0
 
 - Initial release with 1500+ unique icons
 - Supports regular, solid, and brand variants
