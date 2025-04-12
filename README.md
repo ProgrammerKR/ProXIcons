@@ -94,20 +94,24 @@ Example usage:
 ></prox-icon>
 ```
 
-## Contributors
+## Contributing & Contributors
 
-Thanks to all contributors who help maintain and improve this project!
+We welcome contributions of all kinds — from fixing bugs and adding icons to improving docs and star-gazing!
 
-> Want your name here? [Contribute now](./CONTRIBUTE.md) and get listed!
+- **Found a bug?** [Open an issue](https://github.com/ProgrammerKR/ProXIcons/issues)
+- **Have an idea?** [Request a feature](https://github.com/ProgrammerKR/ProXIcons/issues/new)
+- **Want to contribute?** [Follow our guide](./CONTRIBUTING.md)
+
+Thanks to all our amazing contributors for helping make ProXIcons better!
+
+> Your name could be here — contribute today!
+
+---
 
 ## License
 
-- Icons: CC 4.0
-- Fonts: SIL OFL 1.1
-- Other Files: MIT
+- **Icons**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Fonts**: [SIL OFL 1.1](https://scripts.sil.org/OFL)
+- **Code & Other Files**: [MIT License](https://opensource.org/licenses/MIT)
 
-[Read the full license here](https://github.com/ProgrammerKR/ProXIcons/blob/main/LICENSE)
-
-## Contributing
-
-Pull requests and contributions are welcome! Caught an issue or have an idea? [Open an issue](https://github.com/ProgrammerKR/ProXIcons/issues) or [edit the README](https://github.com/ProgrammerKR/ProXIcons/edit/main/README.md)
+[View Full License](https://github.com/ProgrammerKR/ProXIcons/blob/main/LICENSE)
