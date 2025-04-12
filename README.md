@@ -378,4 +378,4 @@ Check our Roadmap for progress and vote on features!
 
 ProXIcons is more than an icon library—it’s a community-driven tool to make your projects shine. Star the repo, contribute, or share your creations with us! 
 
-Back to Top (#proxicons)
+[Back to Top](#proxicons)
