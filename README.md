@@ -19,11 +19,10 @@ _High Quality, Modern, and Lightweight Open Source Icons_
 
 ## What's New in ProXIcons
 
-### v2.0.0 (Latest Release)
+### v1.4.4 (Latest Release)
 
-- New Icons: Added 500+ icons, including proxy-specific symbols, tech logos, and UI elements.
-- Interactive Icon Customizer: Introduced a web-based tool for real-time icon customization (colors, sizes, animations).
-- TypeScript Support: Full type definitions for better developer experience.
+- Minor bug fixex for Performance & Readability
+- JavaScript Support: Full type definitions for better developer experience.
 - Performance Boost: Reduced bundle size by 15% with advanced SVG optimization.
 - Accessibility: Improved ARIA support for screen readers.
 - New Variants: Added outline and duotone styles.
