@@ -98,6 +98,8 @@ Example usage:
 
 Thanks to all contributors who help maintain and improve this project!
 
+> Want your name here? [Contribute now](./CONTRIBUTE.md) and get listed!
+
 ## License
 
 - Icons: CC 4.0
