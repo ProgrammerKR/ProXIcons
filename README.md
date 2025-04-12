@@ -19,7 +19,7 @@ _High Quality, Modern, and Lightweight Open Source Icons_
 
 ## What's New
 
-### v1.4.4
+### v1.4.3
 - Version conflict resolved and metadata updated
 - Improved build system and development scripts
 - Optimized SVG handling using `svgo`
