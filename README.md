@@ -94,6 +94,13 @@ Example usage:
 ></prox-icon>
 ```
 
+## 🚀 ProXIcons Icon Preview
+
+Here’s a quick look at some beautiful, pixel-perfect icons from **ProXIcons**
+
+> Visit the [Full Icon Gallery](https://codepen.io/Prog-Kanishk-Raj/pen/ByaXdmq) to explore all available icons.
+
+
 ## Contributing & Contributors
 
 We welcome contributions of all kinds — from fixing bugs and adding icons to improving docs and star-gazing!
