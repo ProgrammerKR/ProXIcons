@@ -48,31 +48,66 @@ git checkout -b feature/your-feature-name
 
 ---
 
-## Contribution Guidelines
+## Contribution
+
+Thank you for your interest in contributing! To ensure consistency and quality, please follow the guidelines below when designing icons or making code/documentation changes.
+
+---
 
 ### Icon Design Guidelines
 
-- **Format**: SVG (Scalable Vector Graphics)
-- **Size**: Maintain a canvas size of `24x24` or `32x32` pixels
-- **Style**: Consistent line width and pixel alignment
-- **Naming**: Use lowercase and dashes (`icon-name.svg`)
-- **Optimization**: Remove unnecessary metadata using [SVGO](https://github.com/svg/svgo)
+To maintain a clean, unified, and professional look across all icons in the project, please adhere to the following standards:
 
-### Coding & Documentation
+- **Format**: Use SVG (Scalable Vector Graphics) format only. This ensures scalability and a smaller file size.
+- **Canvas Size**: Keep your icon within a `24x24` or `32x32` pixel canvas. Make sure the design is centered and fits well within the canvas.
+- **Style**:
+  - Use consistent line widths (typically 1.5 or 2px) across all icons.
+  - Ensure pixel-perfect alignment to avoid blurry rendering at small sizes.
+  - Maintain a consistent visual language (rounded vs. sharp corners, stroke caps, etc.).
+- **Naming Convention**:
+  - Use all lowercase letters.
+  - Separate words with dashes (`-`) instead of underscores or camelCase.
+  - Example: `calendar-check.svg`, `user-profile.svg`
+- **Optimization**:
+  - Clean up your SVG files before submitting.
+  - Use [SVGO](https://github.com/svg/svgo) or [SVGOMG](https://jakearchibald.github.io/svgomg/) to remove unnecessary metadata and reduce file size.
 
-- Keep your code clean and follow existing patterns.
-- Document your icons/components if needed in `docs/`.
-- Test all changes locally before committing.
+---
+
+### Coding & Documentation Guidelines
+
+If you’re submitting or modifying code, components, or documentation:
+
+- **Code Quality**:
+  - Write clean, readable, and consistent code that matches the existing style.
+  - Avoid duplications and keep functionality modular.
+- **Documentation**:
+  - Add documentation for any new icons, components, or features in the `docs/` directory.
+  - If you add a new icon, consider updating the `docs/index.html` with usage examples or previews.
+- **Testing**:
+  - Thoroughly test your changes locally to ensure everything functions as expected.
+  - Avoid breaking changes unless absolutely necessary (and clearly document them).
 
 ---
 
 ## Creating and Submitting Icons
 
-1. Place your SVG file inside the `icons/` directory.
-2. Follow naming conventions: `icon-name.svg`
-3. Preview and test your icon in a browser or editor.
-4. Add usage examples in the `docs/index.html` file if necessary.
+To contribute a new icon, please follow these steps:
 
+1. **Design** your icon according to the [Icon Design Standards](#icon-design-standards).
+2. **Save** the file in SVG format.
+3. **Place** the SVG inside the `icons/` directory.
+4. **Name** your file using lowercase letters and dashes (e.g., `chat-bubble.svg`).
+5. **Preview & Test**:
+   - Open the SVG in a browser or editor to confirm proper rendering.
+   - Check that it appears sharp and centered at both small and large sizes.
+6. **Optional Documentation**:
+   - Add a usage example or preview to `docs/index.html` if applicable.
+   - Include a short description if the icon’s purpose isn't obvious.
+7. **Commit & Submit**:
+   - Use a clear commit message like: `Add: new icon 'chat-bubble'`.
+   - Push your changes and open a pull request describing your addition.
+     
 ---
 
 ## Improving Documentation
