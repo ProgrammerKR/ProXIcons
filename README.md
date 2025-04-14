@@ -20,6 +20,8 @@ _High Quality, Modern, and Lightweight Open Source Icons_
 
 ### **ProXIcons** is a clean, developer-friendly iconset crafted for modern web, app, and design projects. With over 1500+ icons and a focus on performance, ProXIcons is your go-to icon library for any creative need.
 
+![ProXIcons Preview](preview.png)
+
 ## What's New in ProXIcons
 
 ### v1.4.4 (Latest Release)
