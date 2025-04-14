@@ -1,12 +1,12 @@
 {
   "name": "proxicons",
   "authors": [
-    "atisawd <atisawd@gmail.com>"
+    "ProgrammerKR <programmerkr.123@gmail.com>"
   ],
   "description": "High Quality Web Icons",
   "main": "./dist/proxicons.js",
   "license": "MIT",
-  "homepage": "https://github.com/atisawd/proxicons",
+  "homepage": "https://github.com/ProgrammerKR/ProXIons",
   "ignore": [
     "**/.*",
     "node_modules",
