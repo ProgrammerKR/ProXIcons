@@ -68,14 +68,14 @@ import 'proxicons';
 Include the stylesheet in your HTML <head>:
 
 ````html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/proxicons@latest/css/proxicons.min.css">
+<link href="https://cdn.jsdelivr.net/gh/ProgrammerKR/ProXIcons@main/css/proxicons.min.css" rel="stylesheet">
 ````
 
 
 Or include the JavaScript for Web Components:
 
 ````html
-<script src="https://cdn.jsdelivr.net/npm/proxicons@latest/dist/proxicons.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/proxicons@main/dist/proxicons.min.js"></script>
 ````
 
 
@@ -97,7 +97,7 @@ ProXIcons is designed for flexibility, supporting both CSS classes and Web Compo
 1. Include the ProXIcons stylesheet (via CDN or local file):
 
 ````html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/proxicons@latest/css/proxicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/proxicons@main/css/proxicons.min.css">
 ````
 
 2. Add icons using the px, pxs, pxl classes:
@@ -126,7 +126,7 @@ ProXIcons is designed for flexibility, supporting both CSS classes and Web Compo
 Include the ProXIcons script:
 
 ````html
-<script src="https://cdn.jsdelivr.net/npm/proxicons@latest/dist/proxicons.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/proxicons@main/dist/proxicons.min.js"></script>
 ````
 
 Use the <prox-icon> element:
@@ -229,7 +229,7 @@ We love contributions! Whether it's adding new icons, fixing bugs, or improving 
 2. Clone your fork:
 
 ````bash
-git clone https://github.com/your-username/ProXIcons.git
+git clone https://github.com/ProgrammerKR/ProXIcons.git
 ````
 
 3. Install dependencies:
