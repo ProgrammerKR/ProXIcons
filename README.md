@@ -41,7 +41,7 @@ _High Quality, Modern, and Lightweight Open Source Icons_
 
 ### v1.3.0
 
-- Initial release with 1500+ unique icons.
+- Initial release with 1600+ unique icons.
 - Introduced regular, solid, and brand variants.
 - Added Web Component for easy integration.
 
@@ -97,7 +97,7 @@ ProXIcons is designed for flexibility, supporting both CSS classes and Web Compo
 1. Include the ProXIcons stylesheet (via CDN or local file):
 
 ````html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/proxicons@main/css/proxicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ProgrammerKR/ProXIcons@main/css/proxicons.min.css">
 ````
 
 2. Add icons using the px, pxs, pxl classes:
