@@ -26,7 +26,7 @@ Click the **Fork** button on the top right of the [ProXIcons GitHub page](https:
 
 ### 2. Clone the Forked Repository
 ```bash
-git clone https://github.com/your-username/ProXIcons.git
+git clone https://github.com/ProgrammerKR/ProXIcons.git
 cd ProXIcons
 ```
 
