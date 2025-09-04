@@ -376,7 +376,7 @@ Check our Roadmap for progress and vote on features!
 
 ## Acknowledgments
 
-- Inspired by FontAwesome, Feather Icons, and Boxicons.
+- Inspired & forked from Boxicons. 
 
 - Special thanks to our contributors and users for their feedback and support.
 
